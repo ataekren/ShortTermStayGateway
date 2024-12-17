@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ata\\files\\dev\\ShortTermStayAPI\\ShortTermStayGateway\\ShortTermStayGateway\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B11A246-E550-4D5B-99A7-27E9AA924AB9}|ShortTermStayGateway.csproj|d:\\ata\\files\\dev\\shorttermstayapi\\shorttermstaygateway\\shorttermstaygateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B11A246-E550-4D5B-99A7-27E9AA924AB9}|ShortTermStayGateway.csproj|solutionrelative:ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B11A246-E550-4D5B-99A7-27E9AA924AB9}|ShortTermStayGateway.csproj|d:\\ata\\files\\dev\\shorttermstayapi\\shorttermstaygateway\\shorttermstaygateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B11A246-E550-4D5B-99A7-27E9AA924AB9}|ShortTermStayGateway.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "D:\\Ata\\files\\dev\\ShortTermStayAPI\\ShortTermStayGateway\\ShortTermStayGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "ocelot.json",
+              "ToolTip": "D:\\Ata\\files\\dev\\ShortTermStayAPI\\ShortTermStayGateway\\ShortTermStayGateway\\ocelot.json",
+              "RelativeToolTip": "ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T20:52:07.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ata\\files\\dev\\ShortTermStayAPI\\ShortTermStayGateway\\ShortTermStayGateway\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Ata\\files\\dev\\ShortTermStayAPI\\ShortTermStayGateway\\ShortTermStayGateway\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:52:01.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

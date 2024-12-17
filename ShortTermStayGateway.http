@@ -1,0 +1,6 @@
+@ShortTermStayGateway_HostAddress = http://localhost:5080
+
+GET {{ShortTermStayGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
